@@ -1,0 +1,82 @@
+@charset "utf-8";
+.head{height: 69px;
+			width: 100%;
+			background-color: #504F4F;
+			color: white;}
+.hc-l ul{display: inline-block;
+						margin-top: 10px;}
+.hc-l img{margin-top: 10px;}
+.hc-l{height: 69px;}
+.head p{font-size: 12px;
+			display: inline-block;}
+.hc-r a{color: white;}
+.hc-r span{padding: 0 5px;}
+.hc-l{float: left;}
+.hc-r{float: right;
+margin-top: 10px;}
+.nav{position: relative;}
+.nav ul{position: absolute;
+right: 0px;top:0px;}
+.nav ul li{float: left;
+font-size: 14px;
+font-family: '宋体';
+height: 57px;
+line-height: 57px;}
+.nav span{padding: 0 16px;}
+.banner{margin-top: 57px;
+border: 1px solid gray;
+margin-bottom: 25px;}
+.content1{width:968px;height: 285px;
+			border: 1px solid black;
+			margin-bottom: 26px;}
+.content1 .cl{margin-left: 17px;
+						width: 630px;height: 285px;
+						float: left;}
+.content1  h3{color: #FCA535;
+								height: 40px;
+							line-height: 40px;
+							font-family: '华文细黑';}
+.content1 h3 span{color: gray;
+										font-size: 12px;}
+.content1 .cl p{width: 435px;height: 227px;
+								float: right;
+								margin-left: 20px;
+								font-size: 12px;
+								font-family: '宋体';
+								line-height: 30px;
+							}
+.content1 .cl p span{color: #FC9918;
+										font-weight: bold;}
+.content1 .cr{float: right;
+						margin-right: 55px;
+						}
+.content1 .cr ul li{font-size: 12px;
+										font-family: '宋体';
+										height: 30px;
+										line-height: 30px;}
+.content1 .cr ul li span{float: right;}
+.content2 {width: 950px;
+			height: 327px;
+			border: 1px solid black;
+			padding-left: 17px;
+			margin-bottom: 40px;}
+.content2  h3{color: #FCA535;
+								height: 40px;
+							line-height: 40px;
+							font-family: '华文细黑';
+							margin-bottom: 5px;}
+.content2 h3 span{color: gray;
+										font-size: 12px;}
+.content2 .bottom ul li{float: left;
+margin-right: 24px;
+margin-bottom: 21px;}
+.bottom li img{width: 164px;height: 119px;
+	vertical-align: middle;}
+.footer{border-top: 1px solid gray;}
+.footer div{padding-top: 30px;}
+.footer div p{
+						font-size: 12px;
+					line-height: 22px;}
+.footer p span{padding: 0 10px;}
+.footer a{color: red;
+text-decoration:underline;}
